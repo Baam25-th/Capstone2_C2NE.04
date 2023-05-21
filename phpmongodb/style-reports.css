@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+main {
+    max-width: 820px;
+    margin: 0 auto;
+}
+main h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.target-name {
+
+    position: relative;
+    width: 800px;
+    height: 100px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#95eff3;
+    border-radius: 5px;
+}
+.target-name h3 {
+    font-weight: 700;
+    position: absolute;
+    left: 30px;
+    color: #4b00ff;
+}
+.target-name span {
+    font-size: 22px;
+    font-weight: 600;
+    color: #070072;
+}
+
+.vuln-reports__sqli {
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px ;
+}
+
+main h2 {
+    font-size: 36px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #070072;
+    margin: 25px 0;
+}
+
+.vuln-reports__sqli h3, .vuln-reports__xss h3 {
+    cursor: pointer;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    color: #280087;
+    padding: 30px;
+    padding-left: 50px;
+    border: 1px solid #dbdbdb;
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px ;
+}
+
+.reports__sqli--content, .reports__xss--content {
+    padding-top: 30px;
+    padding-left: 20px;
+    border: 1px solid #dbdbdb;;
+}
+
+.reports__sqli--content h4, .reports__xss--content h4{
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.reports__sqli--content p, .reports__xss--content p {
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px 0;
+}
+
+
+/*  */
+
+.vuln-description {
+    padding-bottom: 20px;
+}
+
+  
+.vuln-description table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+.vuln-description th,
+.vuln-description td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+.vuln-description th {
+    background-color: #eee;
+    font-weight: bold;
+    align-items: center !important;
+  }
+  
+.vuln-description tbody tr:hover {
+    background-color: #f2f2f2;
+  }
+  
+.vuln-description a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  

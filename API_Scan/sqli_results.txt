@@ -1,0 +1,144 @@
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql1.php
+[+] Method: 	post
+[+] Payload: '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql2.php
+[+] Method: 	post
+[+] Payload: '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql3.php
+[+] Method: 	post
+[+] Payload: '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql4.php
+[+] Method: 	post
+[+] Payload: `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql5.php
+[+] Method: 	post
+[+] Payload: `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql6.php
+[+] Method: 	get
+[+] Payload: '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql1.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql2.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql3.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql4.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql5.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql6.php
+[+] Method: 	get
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql1.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql2.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql3.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql4.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql5.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql6.php
+[+] Method: 	get
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql1.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql2.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql3.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql4.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql5.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql6.php
+[+] Method: 	get
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql1.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql2.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql3.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql4.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql5.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql6.php
+[+] Method: 	get
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql1.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql2.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql3.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql4.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql5.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql6.php
+[+] Method: 	get
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql1.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql2.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql3.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql4.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql5.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql6.php
+[+] Method: 	get
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql1.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql2.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql3.php
+[+] Method: 	post
+[+] Payload:   '
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql4.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql5.php
+[+] Method: 	post
+[+] Payload:   `
+[+] SQL Injection Vulnerability Detected, link: https://testvulncaps2.000webhostapp.com/SQL/sql6.php
+[+] Method: 	get
+[+] Payload:   '

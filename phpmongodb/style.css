@@ -1,0 +1,142 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+main {
+    background-color: #99c6db;
+}
+section {
+    max-width: 1217px;
+    margin: 0 auto;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    
+
+}
+h2 {
+    font-size: 72px;
+    font-weight: 700;
+    color: #006165;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.wrapper {
+    width: 80%;
+    background-color: rgb(143, 158, 180);
+    border-radius: 10px;
+}
+.main-title {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0 30px;
+    background-image: linear-gradient(to bottom, rgb(227, 233, 241), rgb(205, 214, 228));
+
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 110%;
+
+    -webkit-text-stroke: 1px var(--font-color--secondary);
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+
+} 
+.scanner, .history {
+    cursor: pointer;
+    text-align: center;
+}
+#scan-history {
+    font-weight: 100;
+}
+.line {
+    width: 33px;
+    height: 2px;
+    transform: rotate(90deg);
+    background-color: #a3b0b6;
+    display: inline-block;
+}
+.scanning {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+form {
+    width: 100%;
+    
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+}
+form input {
+    width: 50%;
+    height: 55px;
+    font-size: 30px;
+    margin: 0 30px;
+    border: none !important;
+    background-color: #dadada !important;
+    border-radius: 10px !important;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+form button {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    width: 160px;
+    background-color: aqua;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.scan-history {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 20px;
+    
+  }
+
+  
+  .scan-history table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .scan-history th,
+  .scan-history td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .scan-history th {
+    background-color: #eee;
+    font-weight: bold;
+  }
+  
+  .scan-history tbody tr:hover {
+    background-color: #f2f2f2;
+  }
+  
+  .scan-history a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .scan-history a:hover {
+    text-decoration: underline;
+  }
+/* form-Reports css */
+

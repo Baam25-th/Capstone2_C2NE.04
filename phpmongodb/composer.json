@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.12",
+        "voku/anti-xss": "^4.1"
+    }
+}

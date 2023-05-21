@@ -1,0 +1,3 @@
+<script>alert(111)</script>
+<script>alert('XSS')</script>
+"<svg onload=alert('XSS')>
